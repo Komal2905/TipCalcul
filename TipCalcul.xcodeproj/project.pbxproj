@@ -15,6 +15,12 @@
 		0AEE6D821C293DED00D1DB76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D811C293DED00D1DB76 /* Assets.xcassets */; };
 		0AEE6D851C293DED00D1DB76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D831C293DED00D1DB76 /* LaunchScreen.storyboard */; };
 		0AEE6D901C293DED00D1DB76 /* TipCalculTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AEE6D8F1C293DED00D1DB76 /* TipCalculTests.m */; };
+		0AEE6DA01C294A1E00D1DB76 /* Background.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D9A1C294A1E00D1DB76 /* Background.png */; };
+		0AEE6DA11C294A1E00D1DB76 /* Background@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D9B1C294A1E00D1DB76 /* Background@2x.png */; };
+		0AEE6DA21C294A1E00D1DB76 /* CalculateButton.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D9C1C294A1E00D1DB76 /* CalculateButton.png */; };
+		0AEE6DA31C294A1E00D1DB76 /* CalculateButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D9D1C294A1E00D1DB76 /* CalculateButton@2x.png */; };
+		0AEE6DA41C294A1E00D1DB76 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D9E1C294A1E00D1DB76 /* Icon.png */; };
+		0AEE6DA51C294A1E00D1DB76 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0AEE6D9F1C294A1E00D1DB76 /* Icon@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +48,12 @@
 		0AEE6D8B1C293DED00D1DB76 /* TipCalculTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AEE6D8F1C293DED00D1DB76 /* TipCalculTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TipCalculTests.m; sourceTree = "<group>"; };
 		0AEE6D911C293DED00D1DB76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0AEE6D9A1C294A1E00D1DB76 /* Background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Background.png; sourceTree = "<group>"; };
+		0AEE6D9B1C294A1E00D1DB76 /* Background@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Background@2x.png"; sourceTree = "<group>"; };
+		0AEE6D9C1C294A1E00D1DB76 /* CalculateButton.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CalculateButton.png; sourceTree = "<group>"; };
+		0AEE6D9D1C294A1E00D1DB76 /* CalculateButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CalculateButton@2x.png"; sourceTree = "<group>"; };
+		0AEE6D9E1C294A1E00D1DB76 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
+		0AEE6D9F1C294A1E00D1DB76 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +77,12 @@
 		0AEE6D661C293DED00D1DB76 = {
 			isa = PBXGroup;
 			children = (
+				0AEE6D9A1C294A1E00D1DB76 /* Background.png */,
+				0AEE6D9B1C294A1E00D1DB76 /* Background@2x.png */,
+				0AEE6D9C1C294A1E00D1DB76 /* CalculateButton.png */,
+				0AEE6D9D1C294A1E00D1DB76 /* CalculateButton@2x.png */,
+				0AEE6D9E1C294A1E00D1DB76 /* Icon.png */,
+				0AEE6D9F1C294A1E00D1DB76 /* Icon@2x.png */,
 				0AEE6D711C293DED00D1DB76 /* TipCalcul */,
 				0AEE6D8E1C293DED00D1DB76 /* TipCalculTests */,
 				0AEE6D701C293DED00D1DB76 /* Products */,
@@ -195,7 +213,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AEE6D851C293DED00D1DB76 /* LaunchScreen.storyboard in Resources */,
+				0AEE6DA51C294A1E00D1DB76 /* Icon@2x.png in Resources */,
+				0AEE6DA01C294A1E00D1DB76 /* Background.png in Resources */,
+				0AEE6DA31C294A1E00D1DB76 /* CalculateButton@2x.png in Resources */,
+				0AEE6DA21C294A1E00D1DB76 /* CalculateButton.png in Resources */,
+				0AEE6DA41C294A1E00D1DB76 /* Icon.png in Resources */,
 				0AEE6D821C293DED00D1DB76 /* Assets.xcassets in Resources */,
+				0AEE6DA11C294A1E00D1DB76 /* Background@2x.png in Resources */,
 				0AEE6D7D1C293DED00D1DB76 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -404,6 +428,7 @@
 				0AEE6D961C293DED00D1DB76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AEE6D971C293DED00D1DB76 /* Build configuration list for PBXNativeTarget "TipCalculTests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +437,7 @@
 				0AEE6D991C293DED00D1DB76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
