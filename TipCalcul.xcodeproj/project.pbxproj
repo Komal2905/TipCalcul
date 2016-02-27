@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A6643491C815C410050F903 /* change1 in Resources */ = {isa = PBXBuildFile; fileRef = 0A6643481C815C410050F903 /* change1 */; };
 		0AEE6D741C293DED00D1DB76 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AEE6D731C293DED00D1DB76 /* main.m */; };
 		0AEE6D771C293DED00D1DB76 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AEE6D761C293DED00D1DB76 /* AppDelegate.m */; };
 		0AEE6D7A1C293DED00D1DB76 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0AEE6D791C293DED00D1DB76 /* ViewController.m */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0A6643481C815C410050F903 /* change1 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = change1; sourceTree = "<group>"; };
 		0AEE6D6F1C293DED00D1DB76 /* TipCalcul.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipCalcul.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AEE6D731C293DED00D1DB76 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		0AEE6D751C293DED00D1DB76 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				0AEE6D861C293DED00D1DB76 /* Info.plist */,
 				0AEE6D7E1C293DED00D1DB76 /* TipCalcul.xcdatamodeld */,
 				0AEE6D721C293DED00D1DB76 /* Supporting Files */,
+				0A6643481C815C410050F903 /* change1 */,
 			);
 			path = TipCalcul;
 			sourceTree = "<group>";
@@ -218,6 +221,7 @@
 				0AEE6DA31C294A1E00D1DB76 /* CalculateButton@2x.png in Resources */,
 				0AEE6DA21C294A1E00D1DB76 /* CalculateButton.png in Resources */,
 				0AEE6DA41C294A1E00D1DB76 /* Icon.png in Resources */,
+				0A6643491C815C410050F903 /* change1 in Resources */,
 				0AEE6D821C293DED00D1DB76 /* Assets.xcassets in Resources */,
 				0AEE6DA11C294A1E00D1DB76 /* Background@2x.png in Resources */,
 				0AEE6D7D1C293DED00D1DB76 /* Main.storyboard in Resources */,
